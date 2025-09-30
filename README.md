@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi+I'm+Gouland+%7C+Data+Analyst+%7C+Biostatistics+Enthusiast" alt="Typing animation">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi+I'Gouland+%7C+Data+Analyst+%7C+Biostatistics+Enthusiast" alt="Typing animation">
 
 <!-- Profile Views -->
 <p align="center">
