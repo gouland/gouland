@@ -86,6 +86,6 @@ I'm a passionate **Data Analyst** and **Biostatistician** with expertise in tran
 
 ⭐ **From [Gouland](https://github.com/gouland)**
 <!-- Snake Animation -->
-<img src="https://github.com/gouland/gouland/blob/output/github-snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/gouland/gouland/output/github-snake.svg)
 
 </div>
