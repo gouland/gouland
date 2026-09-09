@@ -140,36 +140,11 @@ Microsoft Ecosystem
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gouland&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouland&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:oumagouland@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
 ### Building solutions, learning continuously, and turning ideas into working systems.
 
-**Gouland**
 
-![Snake animation](https://raw.githubusercontent.com/gouland/gouland/output/github-snake.svg)
 
 </div>
